@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero{
+  height
+  background-image: url(');
+  color: white
+}
+
+
+
+h1{
+  font-weight: 100;
+  font-size: 400;
+}
+.fl-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fl-center{
+  justify-content: center;
+}
+
+.fl-center {
+  align-items: center;
+}
+
+h1 {
+
+}
